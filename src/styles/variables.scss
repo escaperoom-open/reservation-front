@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.v-date-picker-month__day {
+    width: 30px;
+    height: 30px;
+}
+
+.v-btn--icon.v-btn--density-default {
+    width: calc(var(--v-btn-height) + 12px);
+    height: calc(var(--v-btn-height) + 2px);
+}
+
+.v-picker.v-sheet {
+    border-radius: 10px;
+}

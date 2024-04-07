@@ -1,0 +1,17 @@
+.fc .fc-toolbar-title {
+    font-size: 14px;
+}
+
+.fc .fc-button-primary {
+    border: none;
+    background-color: transparent;
+    color: var(--main-black);
+}
+
+.fc-scrollgrid-sync-table .fc-col-header {
+    width: 100%;
+}
+
+/* .fc-view-harness.fc-view-harness-active {
+    height: ;
+} */
